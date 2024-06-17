@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently learning at Le Mans University, France.
+I love watching movies and listening to music, also sometimes I read books about coding.
 <!--
 **Dawn-Aurora/Dawn-Aurora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
